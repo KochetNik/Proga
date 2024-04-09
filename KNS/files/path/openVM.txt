@@ -1,0 +1,1 @@
+firefox --new-tab --url https://brest.local/#vms-tab
